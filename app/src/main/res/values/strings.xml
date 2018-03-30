@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PraktinisDarbasPirmasNews</string>
+
+        <string name="button_one">PREV</string>
+        <string name="button_two">TOP</string>
+        <string name="button_three">NEXT</string>
+
+
+</resources>
